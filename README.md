@@ -8,6 +8,7 @@ I do software development for living, and I enjoy working on side projects. One 
 4. Add Oracle -- SQL generator classes.
 
 Please let me know if you are interested. If you need more help after reading the Wiki, I will be happy to give you a quick overview.
+
 📫 How to reach me: Create an issue through the FluentSql repository.
 <!--
 **ernestoherrera/ernestoherrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
